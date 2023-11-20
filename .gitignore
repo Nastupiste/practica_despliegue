@@ -1,0 +1,9 @@
+#Evitar que se suban copias de seguridad gracias al .gitignore
+# Archivos de copia de seguridad
+*.bak
+*.bak.*
+*.swp
+*~
+
+# Carpetas de copia de seguridad
+backup/
